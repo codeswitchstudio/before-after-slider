@@ -1,5 +1,8 @@
 # before-after-slider
 
+deployed [here](https://codeswitchstudio.github.io/before-after-slider/)
+
+
 source code:
 [Dudley Storey's codepen](https://codepen.io/dudleystorey/pen/DJqNKP)
 
